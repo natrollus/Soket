@@ -1,5 +1,0 @@
-/**
- * Created by byram on 8/11/15.
- */
-var a = 0;
-print(a)
