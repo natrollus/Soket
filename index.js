@@ -4,4 +4,4 @@
 
 var express = require('express');
 var router = express.Router();
-print(a);
+print(router);
